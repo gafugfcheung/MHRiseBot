@@ -1,0 +1,432 @@
+<data>
+    <monsters>
+        <monster
+                name="Aknosom"
+                wiki="https://monsterhunter.fandom.com/wiki/Aknosom"
+                characteristics="Tending to stand on one leg, this monster somewhat resembles an umbrella. The Aknosom is highly territorial; it will spread out its wings and show off its characteristic comb to scare off threats. It also bears flammable venom that burns fiercely and lingers on the ground when lit. Draw the beast to water for an easier fight."
+                class="Bird Wyvern"
+                weakness="Water&#10;Thunder"
+                ailment="Fireblight"
+                element="Fire"
+        />
+        <monster
+                name="Arzuros"
+                wiki="https://monsterhunter.fandom.com/wiki/Arzuros"
+                characteristics="Beasts known to dwell in humid forest and mountain regions. Though known more for fishing and standing upright to collect honey, their thick claws and heavy forearm plating allow them to deliver powerful blows to any aggressor."
+                class="Fanged Beast"
+                weakness="Fire&#10;Ice"
+                ailment="None"
+                element="None"
+        />
+        <monster
+                name="Great Izuchi"
+                alias="Izuchi"
+                wiki="https://monsterhunter.fandom.com/wiki/Great_Izuchi"
+                characteristics="The alpha Izuchi of its pack, identified by its larger build, upended white fur and scythe-like tail. A Great Izuchi forms a herd of many smaller Izuchi and selects two from the group to accompany it on territory patrols. Once it spots prey or senses danger, the Great Izuchi issues commands to their fellow Izuchi, and coordinates their movements. Take care that you don't get overwhelmed."
+                class="Bird Wyvern"
+                weakness="Water&#10;Thunder"
+                ailment="None"
+                element="None"
+        />
+        <monster
+                name="Great Baggi"
+                alias="Baggi"
+                wiki="https://monsterhunter.fandom.com/wiki/Great_Baggi"
+                characteristics="A carnivorous bird wyvern. Noted for their projecting cranial crests and bluish-white skin that's adapted to snowy climates. Great Baggi craftily command other Baggi to surround their prey and stun them with a tranquilizing fluid."
+                class="Bird Wyvern"
+                weakness="Fire&#10;Water&#10;Thunder"
+                ailment="Sleep"
+                element="None"
+        />
+        <monster
+                name="Great Wroggi"
+                alias="Wroggi"
+                wiki="https://monsterhunter.fandom.com/wiki/Great_Wroggi"
+                characteristics="Wroggi are bird wyverns that travel in packs that are led by the largest and most toxic member. Be careful when one raises its head and its poison sac expands — that signals that it's about to spit a cloud of poisonous mist."
+                class="Bird Wyvern"
+                weakness="Ice&#10;Water"
+                ailment="Poison"
+                element="None"
+        />
+        <monster
+                name="Lagombi"
+                wiki="https://monsterhunter.fandom.com/wiki/Lagombi"
+                characteristics="Fanged, long-eared beasts whose warm pelts and thick layers of fat help them survive in cold climates. Though mainly herbviores, Lagombi occasionally make use of their exceptional hearing and ability to glide on ice to sneak up on prey."
+                class="Fanged Beast"
+                weakness="Fire&#10;Thunder"
+                ailment="Iceblight&#10;Snowman"
+                element="Ice"
+        />
+        <monster
+                name="Kulu-Ya-Ku"
+                alias="Kulu"
+                wiki="https://monsterhunter.fandom.com/wiki/Kulu-Ya-Ku"
+                characteristics="A bird wyvern that has developed limbs capable of carrying objects. It has been spotted stealing eggs from nests. If attacked while carrying an egg, it will drop the egg in fright and flee. When engaged, a Kulu-Ya-Ku will dig up a small boulder to shield itself against threats or use it in its attacks."
+                class="Bird Wyvern"
+                weakness="Water&#10;Dragon&#10;Ice&#10;Thunder&#10;Fire"
+                ailment="Stun"
+                element="None"
+        />
+        <monster
+                name="Khezu"
+                wiki="https://monsterhunter.fandom.com/wiki/Khezu"
+                characteristics="Loathsome wyverns that dwell in caves and other dark places. All but blind, Khezu hunt by smell. Their tail has evolved to cling to walls and ceilings. After using an electric shock to paralyze their prey, they extend their long neck and pounce."
+                class="Flying Wyvern"
+                weakness="Fire"
+                ailment="Thunderblight&#10;Paralysis&#10;Stun"
+                element="Thunder"
+        />
+        <monster
+                name="Pukei-Pukei"
+                alias="Pukei"
+                wiki="https://monsterhunter.fandom.com/wiki/Pukei-Pukei"
+                characteristics="A bird wyvern known to store toxins within its body. It uses is tongue like a whip and can stretch or shrink it at will, allowing it to grab up food. As a defense against threats, Pukei-Pukei have numerous toxic attacks. Keep an eye on both its mouth and tail."
+                class="Bird Wyvern"
+                weakness="Thunder&#10;Ice"
+                ailment="Poison&#10;Stun"
+                element="None"
+        />
+        <monster
+                name="Tetranadon"
+                wiki="https://monsterhunter.fandom.com/wiki/Tetranadon"
+                characteristics="Amphibious monster resembling a frog. Its appetite is infinite, and if it sees anything moving, it will gobble it up, dirt and all. It's theorized that the dirt it consumes builds up in its stomach and aids in digestion. If it eats something that it cannot digest it will throw it back up. The cranial disc protecting its tender head is said to harden and become a more brilliant blue over time."
+                class="Amphibian"
+                weakness="Thunder&#10;Fire"
+                ailment="Waterblight&#10;Stun"
+                element="Water"
+        />
+        <monster
+                name="Bishaten"
+                wiki="https://monsterhunter.fandom.com/wiki/Bishaten"
+                characteristics="A monster with a distinctive tail. While it is omnivorous, it has a preference for fruit, and keeps various fruits with all kinds of effects in its belly pouch. An incredibly curious beast, it enjoys playing tricks on people, and has been seen to bat fruit at its prey using its tail."
+                class="Fanged Beast"
+                weakness="Ice&#10;Fire"
+                ailment="Poison&#10;Stun&#10;Paralysis (High Rank)"
+                element="None"
+        />
+        <monster
+                name="Barroth"
+                wiki="https://monsterhunter.fandom.com/wiki/Barroth"
+                characteristics="Usually remain beneath the mud, perhaps to shield themselves from heat; they are even known to attack by flinging mud. They will charge in a frenzy at anything that disturbs their bogs."
+                class="Brute Wyvern"
+                weakness="Water (Muddy body)&#10;Fire (Clean body)&#10;Ice"
+                ailment="Waterblight&#10;Muddy"
+                element="Water"
+        />
+        <monster
+                name="Basarios"
+                wiki="https://monsterhunter.fandom.com/wiki/Basarios"
+                characteristics="These juvenile Gravios are famous for their rock-hard carapaces. They often burrow underground, mimicking rocks and savaging oblivious miners. Because their carapaces are tougher than that of a full-grown Gravios, they'll attack a threat by charging at it. They are also known to emit a poisonous gas."
+                class="Flying Wyvern"
+                weakness="Dragon&#10;Water"
+                ailment="Fireblight&#10;Poison&#10;Sleep"
+                element="Fire"
+        />
+        <monster
+                name="Volvidon"
+                wiki="https://monsterhunter.fandom.com/wiki/Volvidon"
+                characteristics="Fanged beasts with thick red carapaces that are resistant to lava. Their rounded bodies are perfect for rolling across hot surfaces, and their long tongues are ideal for capturing insect prey. Their saliva emits a paralyzing toxin that should be avoided."
+                class="Fanged Beast"
+                weakness="Water&#10;Ice"
+                ailment="Paralysis&#10;Stench"
+                element="Water"
+        />
+        <monster
+                name="Royal Ludroth"
+                alias="Ludroth"
+                wiki="https://monsterhunter.fandom.com/wiki/Royal_Ludroth"
+                characteristics="Larger than regular Ludroth, Royal Ludroth use their sponge-like mane to absorb water and keep from drying out on land. Once the sponge loses moisture, they will seek out water to recover. They also spew mucus to trip up their prey."
+                class="Leviathan"
+                weakness="Fire&#10;Thunder"
+                ailment="Waterblight"
+                element="Water"
+        />
+        <monster
+                name="Rathian"
+                wiki="https://monsterhunter.fandom.com/wiki/Rathian"
+                characteristics="Fire-breathing female wyverns, also known as &quot;Queens of the Land&quot;. With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathian and Rathalos cooperate well."
+                class="Flying Wyvern"
+                weakness="Dragon&#10;Thunder"
+                ailment="Fireblight&#10;Poison"
+                element="Fire"
+        />
+        <monster
+                name="Jyuratodus"
+                wiki="https://monsterhunter.fandom.com/wiki/Jyuratodus"
+                characteristics="A piscine wyvern that inhabits swamps, utilizing the mud there to hunt and survive. It wallows in the mire cutaneous respiration and preserve the toughness of its scales. The sludge it spits is highly viscous, so watch where you step, lest you get stuck in it."
+                class="Piscine Wyvern"
+                weakness="Thunder (Clean body)&#10;Water (Muddy body)&#10;Fire"
+                ailment="Waterblight&#10;Muddy"
+                element="Water"
+        />
+        <monster
+                name="Barioth"
+                wiki="https://monsterhunter.fandom.com/wiki/Barioth"
+                characteristics="Wyverns that rule the eternally frozen Tundra. Barioth use their forelegs, tail, and their spiked scales to traverse the slipper ice with ease; this ability makes them very difficult to keep up with."
+                class="Flying Wyvern"
+                weakness="Fire&#10;Thunder"
+                ailment="Iceblight&#10;Snowman"
+                element="Ice"
+        />
+        <monster
+                name="Somnacanth"
+                wiki="https://monsterhunter.fandom.com/wiki/Somnacanth"
+                characteristics="A formidable aquatic serpent that crests on moonlit nights - likely why it has often been mistaken for a mermaid. It expels an intoxicating sleep powder from its neck gills and tail, knocking out prey before it can resist. Some Somnacanth sightings tell of this species making use of unusual shells, so exercise caution if catch one swimming towards you with a shell in its claws."
+                class="Leviathan"
+                weakness="Thunder&#10;Fire"
+                ailment="Sleep&#10;Stun&#10;Blastblight&#10;Waterblight"
+                element="Water"
+        />
+        <monster
+                name="Anjanath"
+                wiki="https://monsterhunter.fandom.com/wiki/Anjanath"
+                characteristics="This belligerent monster will attack anything without hesitation. The membrane along its tail fans out when it is provoked — a behavior theorized to be either an act of intimidation or thermoregulation, as it has been known to do so when it breathes fire."
+                class="Brute Wyvern"
+                weakness="Water"
+                ailment="Fireblight"
+                element="Fire"
+        />
+        <monster
+                name="Mizutsune"
+                wiki="https://monsterhunter.fandom.com/wiki/Mizutsune"
+                characteristics="A specially evolved Leviathan with a sleek, lithe body, Mizutsune can secrete a peculiar foam that covers its foes in immobilizing bubbles. Once its prey's movement is imapired, it closes in with spry, dance-like movements."
+                class="Leviathan"
+                weakness="Thunder&#10;Dragon"
+                ailment="Bubble&#10;Waterblight"
+                element="Water"
+        />
+        <monster
+                name="Rathalos"
+                wiki="https://monsterhunter.fandom.com/wiki/Rathalos"
+                characteristics="Terrible wyverns called &quot;Kings of the Skies&quot;. Along with Rathian, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and a breath of fire."
+                class="Flying Wyvern"
+                weakness="Dragon&#10;Ice&#10;Thunder"
+                ailment="Fireblight&#10;Stun&#10;Poison"
+                element="Fire"
+        />
+        <monster
+                name="Tobi-Kadachi"
+                alias="Tobi,Kadachi"
+                wiki="https://monsterhunter.fandom.com/wiki/Tobi-Kadachi"
+                characteristics="A fanged wyvern that flies among the treetops. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur. This action allows it to reach a charged state — identified by its glowing fur — in which its head and tail attacks are said to be particularly lethal."
+                class="Fanged Wyvern"
+                weakness="Water&#10;Fire"
+                ailment="Thunderblight"
+                element="Thunder"
+        />
+        <monster
+                name="Nargacuga"
+                wiki="https://monsterhunter.fandom.com/wiki/Nargacuga"
+                characteristics="Flying wyverns that have evolved to live in thickly wooded areas. Covered in jet black fur, these cunning predators stalk their prey from the shadows and attack with ferocious speed. Their massive tails are as dexterous as they are deadly, and powerful enough to slay smaller monsters with one strike."
+                class="Flying Wyvern"
+                weakness="Thunder&#10;Fire"
+                ailment="None"
+                element="None"
+        />
+        <monster
+                name="Zinogre"
+                wiki="https://monsterhunter.fandom.com/wiki/Zinogre"
+                characteristics="Fanged wyverns whose bodies are streaked with electricity. Sharp claws and strong limbs allow them to thrive in mountainous terrain. During hunts, they gather numerous Thunderbugs to boost their power and enter a supercharged state."
+                class="Fanged Wyvern"
+                weakness="Ice&#10;Water"
+                ailment="Thunderblight"
+                element="Thunder"
+        />
+        <monster
+                name="Magnamalo"
+                wiki="https://monsterhunter.fandom.com/wiki/Magnamalo"
+                characteristics="A monster with a carapace like tempered steel armor. The vapor around it is actually the expelling of trapped gases from the hordes of monsters Magnamalo has consumed. This has earned it the moniker &quot;Wyvern of Malice&quot;. Its shrouded swings can inflict hellfireblight, which causes one to combust either spontaneously or when hit. Use a Deodorant or a Wirebug to rid yourself of hellfire."
+                class="Fanged Wyvern"
+                weakness="Thunder&#10;Water"
+                ailment="Hellfireblight"
+                element="None"
+        />
+        <monster
+                name="Almudron"
+                wiki="https://monsterhunter.fandom.com/wiki/Almudron"
+                characteristics="As its name implies, Almudron spends a great deal of time lurking in mud — at least until it emerges to smother approaching prey. From its tail oozes a strange golden fluid, which Almudron uses to dissolve the ground beneath its prey, arresting them in a mire so that it can drag them under. When enraged, it produces more fluid, turning the mud golden. When you see gold, watch out!"
+                class="Leviathan"
+                weakness="Fire&#10;Ice"
+                ailment="Waterblight&#10;Muddy"
+                element="Water"
+        />
+        <monster
+                name="Diablos"
+                wiki="https://monsterhunter.fandom.com/wiki/Diablos"
+                characteristics="Known as the &quot;Tyrant of the Desert&quot;. The Diablos is extremely territorial and will use its massive horns to charge at invaders. Diablos have the ability to borrow underground and use this ability to strike from below, however, their sensitive ears make them susceptible to Sonic Bombs. Despite their predatory appearance, they are herbivorous and mostly feed on cactus."
+                class="Flying Wyvern"
+                weakness="Ice&#10;Dragon&#10;Water"
+                ailment="None"
+                element="None"
+        />
+        <monster
+                name="Rakna-Kadaki"
+                alias="Rakna,Kadaki"
+                wiki="https://monsterhunter.fandom.com/wiki/Rakna-Kadaki"
+                characteristics="A Rakna-Kadaki is usually seen covered in sticky webbing. Clinging to its abdomen are its offspring, known as Rachnoid, which it controls using the flammable gas that builds up there. Rachnoid spit fire, capture prey, and support the Rakna-Kadaki's massive body. As their numbers dwindle, the beast will hatch more, at which point it is extremely dangerous."
+                class="Temnoceran"
+                weakness="Ice&#10;Water"
+                ailment="Fireblight&#10;Webbed"
+                element="Fire"
+        />
+        <monster
+                name="Goss Harag"
+                alias="Goss,Harag"
+                wiki="https://monsterhunter.fandom.com/wiki/Goss_Harag"
+                characteristics="A monster native to ice-cold climates. Covered in fur so thick it keeps out the harsh frost, it roams the snowy plains in search of prey. It can inhale the cold air to freeze its own bodily fluids and then spit them out to create icey blades on its arms. When riled up, the Goss Harag turns red and becomes exceedingly dangerous."
+                class="Fanged Beast"
+                weakness="Fire&#10;Thunder"
+                ailment="Iceblight&#10;Stun"
+                element="Ice"
+        />
+        <monster
+                name="Tigrex"
+                wiki="https://monsterhunter.fandom.com/wiki/Tigrex"
+                characteristics="Flying wyverns whose primitive origins are obvious. Prone to violence, they display incredible ferocity with their claws, jaws, and developed limbs. They inhabit a wide area searching for prey, and have even been spotted in regions of harsh cold."
+                class="Flying Wyvern"
+                weakness="Thunder&#10;Dragon"
+                ailment="Fireblight&#10;Waterblight&#10;Iceblight"
+                element="Fire (On fiery terrains)&#10;Water (On watery terrains)&#10;Ice (On icy and snowy terrains)"
+        />
+        <monster
+                name="Bazelgeuse"
+                wiki="https://monsterhunter.fandom.com/wiki/Bazelgeuse"
+                characteristics="A nefarious flying wyvern that travels the world in search for prey. It scatters its own explosive scales over a wide area to prey on whatever gets caught in the blast. In some places, this has earned it the nickname, Bomber Wyvern."
+                class="Flying Wyvern"
+                weakness="Thunder&#10;Ice&#10;Dragon"
+                ailment="Fireblight&#10;Blastblight (On other monsters only)"
+                element="Fire"
+        />
+        <monster
+                name="Rajang"
+                wiki="https://monsterhunter.fandom.com/wiki/Rajang"
+                characteristics="An ultra-aggressive creature that is rarely sighted and seldom survived. Those that have survived report that it exhibits a strange attack. Rajang are said to be loners, and this isolated life has made it difficult to pin down its territorial learnings. When angered, part of its pelt turns a golden color."
+                class="Fanged Beast"
+                weakness="Ice&#10;Water"
+                ailment="Thunderblight"
+                element="Thunder"
+        />
+        <monster
+                name="Teostra"
+                wiki="https://monsterhunter.fandom.com/wiki/Teostra"
+                characteristics="Brutal elder dragons wreathed in flames that spew blazing fire. Teostra are such a fierce and deadly nature that the Guild closely monitors their movements."
+                class="Elder Dragon"
+                weakness="Water&#10;Ice"
+                ailment="Fireblight&#10;Blastblight"
+                element="Fire"
+        />
+        <monster
+                name="Kushala Daora"
+                alias="Kushala,Daora"
+                wiki="https://monsterhunter.fandom.com/wiki/Kushala_Daora"
+                characteristics="It's difficult to even get close to one of these metallic elder dragons, but some claim better odds if the creature is weakened with poison, or has its horn broken, limiting the amount of wind pressure it can muster."
+                class="Elder Dragon"
+                weakness="Dragon&#10;Thunder"
+                ailment="Snowman (Terrain-Dependent)&#10;Iceblight (Terrain-Dependent)&#10;Dragonblight"
+                element="Dragon&#10;Ice"
+        />
+        <monster
+                name="Chameleos"
+                wiki="https://monsterhunter.fandom.com/wiki/Chameleos"
+                characteristics="Precious few sightings of this elder dragon have been recorded, leading to claims it can vanish into its environment like a chameleon - hence its name. Witnesses reportthat, when enraged, it can spew a fog-like breath, which seems to come out of nowhere, and enhance its strength by licking the pollen from Petalaces."
+                class="Elder Dragon"
+                weakness="Dragon&#10;Fire (On head)"
+                ailment="Poison&#10;Noxious Poison"
+                element="None"
+        />
+        <monster
+                name="Crimson Glow Valstrax"
+                alias="Valstrax"
+                wiki="https://monsterhunter.fandom.com/wiki/Crimson_Glow_Valstrax"
+                characteristics="A mutant Valstrax fearsomely dubbed the &quot;Crimson Glow&quot;. This elder dragon typically secludes itself in the upper atmosphere, but it has been driven mad by its own rampant energy, causing it to lash out at anything in its sight. Once it sights its prey, it swoops down, trampling them beneath its shifting wingblades. Several have been sighted all over, so be prepared to encounter one at any time."
+                class="Elder Dragon"
+                weakness="Fire&#10;Water&#10;Thunder&#10;Ice"
+                ailment="Dragonblight"
+                element="Dragon"
+        />
+        <monster
+                name="Wind Serpent Ibushi"
+                alias="Ibushi"
+                wiki="https://monsterhunter.fandom.com/wiki/Wind_Serpent_Ibushi"
+                characteristics="A male elder dragon that exhibits inexplicable behaviors such as floating upside down midair. Research indicates that the emission of a special gas from all over its body, and the modulation of this gas, is what allows it to move freely. It shoots air from gills on its arms and tail to fly, creating its own turbulence and soaring to great heights."
+                class="Elder Dragon"
+                weakness="Dragon&#10;Fire"
+                ailment="Dragonblight"
+                element="Dragon"
+        />
+        <monster
+                name="Thunder Serpent Narwa"
+                alias="Narwa"
+                wiki="https://monsterhunter.fandom.com/wiki/Thunder_Serpent_Narwa"
+                characteristics="An elder dragon and Wind Serpent Ibushi's &quot;queen&quot;. Its thundersacs glow with accumulated electrical charge; it is thought that these organs therefore generate the powerful magnetic field that lifts the creature and anything around it high into the air."
+                class="Elder Dragon"
+                weakness="Dragon&#10;Ice"
+                ailment="Thunderblight&#10;Stun"
+                element="Thunder"
+        />
+        <monster
+                name="Narwa the Allmother"
+                alias="Narwa,Allmother"
+                wiki="https://monsterhunter.fandom.com/wiki/Narwa_the_Allmother"
+                characteristics="Having absorbed the lifeforce of her &quot;king&quot;, Narwa has transformed and become imbued with new power. She now possesses Ibushi's mastery over wind as well as her own control over thunder, and lusts for utter annihilation."
+                class="Elder Dragon"
+                weakness="Dragon&#10;Ice"
+                ailment="Thunderblight"
+                element="Thunder"
+        />
+        <monster
+                name="Apex Arzuros"
+                wiki="https://monsterhunter.fandom.com/wiki/Apex_Arzuros"
+                characteristics="An Arzuros so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its forelegs are massive, deft removers of any who'd stand in their way. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy."
+                class="Fanged Beast"
+                weakness="Fire&#10;Ice&#10;Thunder"
+                ailment="Stun"
+                element="None"
+        />
+        <monster
+                name="Apex Rathian"
+                wiki="https://monsterhunter.fandom.com/wiki/Apex_Rathian"
+                characteristics="A Rathian so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its tail oozes a venom far deadlier than any of a normal monster. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy."
+                class="Flying Wyvern"
+                weakness="Thunder&#10;Dragon"
+                ailment="Fireblight&#10;Noxious Poison&#10;Poison (Tail severed)"
+                element="Fire"
+        />
+        <monster
+                name="Apex Mizutsune"
+                wiki="https://monsterhunter.fandom.com/wiki/Apex_Mizutsune"
+                characteristics="A Mizutsune so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that covers its body. Its bubbles and huge tail have no trouble sending foes packing. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy."
+                class="Leviathan"
+                weakness="Thunder&#10;Dragon&#10;Ice"
+                ailment="Hellfireblight&#10;Waterblight&#10;Bubble&#10;Blastblight (Rampage Only)"
+                element="Water"
+        />
+        <monster
+                name="Apex Rathalos"
+                wiki="https://monsterhunter.fandom.com/wiki/Apex_Rathalos"
+                characteristics="A Rathalos so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its every breath releases flaming jets that singe the very air. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy."
+                class="Flying Wyvern"
+                weakness="Thunder&#10;Dragon"
+                ailment="Fireblight&#10;Poison"
+                element="Fire"
+        />
+        <monster
+                name="Apex Zinogre"
+                wiki="https://monsterhunter.fandom.com/wiki/Apex_Zinogre"
+                characteristics="A Zinogre so mighty, it was crowned an Apex. Its body is covered in scars and wounds as if it had been caught in a storm, and it's seemingly always dominated by wrath and terror. Its forelegs - and their every strike - brim with ferocious sparks. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy."
+                class="Fanged Wyvern"
+                weakness="Ice&#10;Fire&#10;Water&#10;Dragon"
+                ailment="Thunderblight&#10;Paralysis"
+                element="Thunder"
+        />
+        <monster
+                name="Apex Diablos"
+                wiki="https://monsterhunter.fandom.com/wiki/Apex_Diablos"
+                characteristics="A Diablos so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its supremely developed horns add to the lethality of its charge. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy."
+                class="Flying Wyvern"
+                weakness="Ice"
+                ailment="None"
+                element="None"
+        />
+    </monsters>
+</data>

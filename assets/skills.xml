@@ -1,0 +1,1064 @@
+<data>
+    <skills>
+        <skill
+                name="Affinity Sliding"
+                description="Sliding increases your affinity for a short time."
+                levels="1"
+                effects="Enables skill use."
+                grade="C"
+                firstmaxlevel="1"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Agitator"
+                description="Increases attack power and affinity when large monsters become enraged."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Attack +4 and affinity +3% while active.&#10;Attack +8 and affinity +5% while active.&#10;Attack +12 and affinity +7% while active.&#10;Attack +16 and affinity +10% while active.&#10;Attack +20 and affinity +15% while active."
+                grade="A"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Ammo Up"
+                description="Increases bowgun loading capacity. (There is a cap to loading capacity.)"
+                levels="1&#10;2&#10;3"
+                effects="Expands clip size for some ammo types.&#10;Expands clip size for many ammo types.&#10;Expands clip size for most ammo types."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Artillery"
+                description="Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and sticky ammo."
+                levels="1&#10;2&#10;3"
+                effects="Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%.&#10;Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.&#10;Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Attack Boost"
+                description="Increases attack power."
+                levels="1&#10;2&#10;3&#10;4&#10;5&#10;6&#10;7"
+                effects="Attack +3.&#10;Attack +6.&#10;Attack +9.&#10;Attack +5%. Bonus: +7.&#10;Attack +6%. Bonus: +8.&#10;Attack +8%. Bonus: +9.&#10;Attack +10%. Bonus: +10."
+                grade="A"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Ballistics"
+                description="Extends the range in which ammo and arrows have maximum power."
+                levels="1&#10;2&#10;3"
+                effects="Slightly extends range.&#10;Extends range.&#10;Greatly extends range."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Blast Attack"
+                description="Increases blast element attack power. (Elemental attack power has a maximum limit)."
+                levels="1&#10;2&#10;3"
+                effects="Blast buildup + 5%. Bonus: +1.&#10;Blast buildup +10%. Bonus +2.&#10;Blast buildup +20%. Bonus +5."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Blast Resistance"
+                description="Grants protection against blastblight."
+                levels="1&#10;2&#10;3"
+                effects="Delays blastblight and reduces blast damage.&#10;Greatly delays blastblight and greatly reduces blast damage.&#10;Prevents blastblight."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Bludgeoner"
+                description="Increases attack power when your weapon sharpness is low."
+                levels="1&#10;2&#10;3"
+                effects="+5% attack power when your weapon sharpness gauge is yellow or lower.&#10;+10% attack power when your weapon sharpness gauge is yellow or lower.&#10;+10% attack power when your weapon sharpness gauge is green or lower."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Bombardier"
+                description="Increases the damage of explosive items."
+                levels="1&#10;2&#10;3"
+                effects="Explosive power +10%.&#10;Explosive power +20%.&#10;Explosive power +30%."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Botanist"
+                description="Increases the quantity of herbs and other consumable items you gather."
+                levels="1&#10;2&#10;3&#10;4"
+                effects="One extra consumable herb item per gather.&#10;One extra consumable herb, fruit, nut, or seed item per gather.&#10;One extra consumable herb, fruit, nut, seed, or insect item per gather.&#10;One extra consumable herb, fruit, nut, seed, insect, or mushroom item per gather."
+                grade="C"
+                firstmaxlevel="4"
+                secondmaxlevel="4"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Bow Charge Plus"
+                description="Increases max bow charge level by one."
+                levels="1"
+                effects="Activates skill effect."
+        />
+        <skill
+                name="Bubbly Dance"
+                description="Reduces bubbleblight and grants increased evasion when afflicted."
+                levels="1&#10;2&#10;3"
+                effects="Reduces the effects of major bubbleblight.&#10;Reduces major bubbleblight to minor bubbleblight and increases evasiveness while afflicted.&#10;Also inflicts bubbleblight when performing consecutive evasive movement."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Capture Master"
+                description="High chance of increased capture rewards (No effect when joining mid-quest.)"
+                levels="1"
+                effects="Activates skill effect."
+        />
+        <skill
+                name="Carving Master"
+                description="Lets you carve one additional time. (No effect when joining mid-quest.)"
+                levels="1"
+                effects="Activates skill effect."
+        />
+        <skill
+                name="Carving Pro"
+                description="Prevents knockback from attacks while carving."
+                levels="1"
+                effects="Activates skill effect."
+                grade="C"
+                firstmaxlevel="1"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Chameleos Blessing"
+                description="Gain the power of the elder dragon Chameleos."
+                levels="1&#10;2&#10;3&#10;4"
+                effects="Sometimes increases the effects of Spiribirds.&#10;Also negates minor and major wind pressure.&#10;Also extends the duration of your poison's effect on monsters.&#10;Also negates all wind pressure."
+        />
+        <skill
+                name="Constitution"
+                description="Reduces stamina depletion when performing stamina-draining moves such as evading, blocking, or doing certain other actions."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Reduces fixed stamina depletion by 10%.&#10;Reduces fixed stamina depletion by 20%.&#10;Reduces fixed stamina depletion by 30%.&#10;Reduces fixed stamina depletion by 40%.&#10;Reduces fixed stamina depletion by 50%."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Counterstrike"
+                description="Temporarily increases attack power after being thrown off."
+                levels="1&#10;2&#10;3"
+                effects="Attack +10 after activation.&#10;Attack +15 after activation.&#10;Attack +25 after activation."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Critical Boost"
+                description="Increases the damage of critical hits."
+                levels="1&#10;2&#10;3"
+                effects="Increases damage dealt by critical hits to 30%.&#10;Increases damage dealt by critical hits to 35%.&#10;Increases damage dealt by critical hits to 40%."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Critical Draw"
+                description="Increases affinity for a short time after performing a draw attack. (Does not include Silkbind attacks.)"
+                levels="1&#10;2&#10;3"
+                effects="Affinity +10%.&#10;Affinity +20%.&#10;Affinity +40%."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Critical Element"
+                description="Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+                levels="1&#10;2&#10;3"
+                effects="Grants elemental damage +5% while active.&#10;Grants elemental damage +10% while active.&#10;Grants elemental damage +15% while active."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Critical Eye"
+                description="Increases affinity."
+                levels="1&#10;2&#10;3&#10;4&#10;5&#10;6&#10;7"
+                effects="Affinity +5%.&#10;Affinity +10%.&#10;Affinity +15%.&#10;Affinity +20%.&#10;Affinity +25%.&#10;Affinity +30%.&#10;Affinity +40%."
+                grade="A"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Defense Boost"
+                description="Increases defense. Resistances will also improve as the level increases."
+                levels="1&#10;2&#10;3&#10;4&#10;5&#10;6&#10;7"
+                effects="Defense +5.&#10;Defense +10.&#10;Defense +5%. Bonus: +10.&#10;Defense +5%. Bonus: +20. All Elemental Resistances +3.&#10;Defense +8%. Bonus: +20. All Elemental Resistances +3.&#10;Defense +8%. Bonus: +35. All Elemental Resistances +5.&#10;Defense +10%. Bonus: +35. All Elemental Resistances +5."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Diversion"
+                description="Increases the attention drawn when attacking a monster."
+                levels="1"
+                effects="Activates skill effect."
+                grade="C"
+                firstmaxlevel="1"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Divine Blessing"
+                description="Has a predetermined chance of reducing the damage you take."
+                levels="1&#10;2&#10;3"
+                effects="While active, reduces damage taken by 15%.&#10;While active, reduces damage taken by 30%.&#10;While active, reduces damage taken by 50%."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Dragon Attack"
+                description="Increases dragon element attack power. (Elemental attack power has a maximum limit.)"
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Dragon attack +2.&#10;Dragon attack +3.&#10;Dragon attack +5%. Bonus: +4.&#10;Dragon attack +10%. Bonus: +4.&#10;Dragon attack +20%. Bonus: +4."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Dragon Resistance"
+                description="Increases dragon resistance. Also improves defense at higher levels."
+                levels="1&#10;2&#10;3"
+                effects="Dragon resistance +6.&#10;Dragon resistance +12.&#10;Dragon resistance +20. Defense +10."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Dragonheart"
+                description="Draconic energy fills you after losing a certain amount of health. Weapons lose all non-dragon effects."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="When your health is at 50% or less, you contract dragonblight, and all elemental resistances are set to 30.&#10;When your health is at 50% or less, you contract dragonblight, and all elemental resistances are set to 50.&#10;When your health is at 70% or less, you contract dragonblight, and all elemental resistances are set to 50.&#10;Contract dragonblight when at 70% health or less. Sets Elemental resistances to 50 and gain +5% attack power.&#10;Contract dragonblight when at 80% health or less. Sets Elemental resistances to 50 and gain +10% attack power."
+        />
+        <skill
+                name="Earplugs"
+                description="Grants protection from large monsters' roars."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Reduces the effects of weak monster roars.&#10;Nullifies weak monster roars.&#10;Nullifies weak monster roars and reduces the effects of strong monster roars.&#10;Nullifies weak and strong monster roars.&#10;Nullifies weak and strong monster roars. Reduces the effects of powerful monster roars."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Evade Extender"
+                description="Increases evade distance."
+                levels="1&#10;2&#10;3"
+                effects="Slightly extends evasion distance.&#10;Extends evasion distance.&#10;Greatly extends evasion distance."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Evade Window"
+                description="Extends the invulnerability period when evading."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Very slightly increases invulnerability window.&#10;Slightly increases invulnerability window.&#10;Increases invulnerability window.&#10;Greatly increases invulnerability window.&#10;Massively increases invulnerability window."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Fire Attack"
+                description="Increases fire element attack power. (Elemental attack power has a maximum limit.)"
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Fire attack +2.&#10;Fire attack +3.&#10;Fire attack +5%. Bonus: +4.&#10;Fire attack +10%. Bonus: +4.&#10;Fire attack +20%. Bonus: +4."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Fire Resistance"
+                description="Increases fire resistance. Also improves defense at higher levels."
+                levels="1&#10;2&#10;3"
+                effects="Fire resistance +6.&#10;Fire resistance +12.&#10;Fire resistance +20. Defense +10."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Flinch Free"
+                description="Prevents knockbacks and other reactions to small damage."
+                levels="1&#10;2&#10;3"
+                effects="Prevents knockbacks.&#10;Prevents knockbacks. Tripping is reduced to a knockback instead.&#10;Prevents knockbacks and tripping."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Focus"
+                description="Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks."
+                levels="1&#10;2&#10;3"
+                effects="5% faster gauge fill rate and 5% faster charge times.&#10;10% faster gauge fill rate and 10% faster charge times.&#10;20% faster gauge fill rate and 15% faster charge times."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Fortify"
+                description="Increases your attack and defense when you fall in battle. (Disabled for some quests. Can stack twice.)"
+                levels="1"
+                effects="Increases attack by 10% and defense by 15% with each use."
+                grade="C"
+                firstmaxlevel="1"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Free Meal"
+                description="Gives you a predetermined chance of consuming a food or drink item for free."
+                levels="1&#10;2&#10;3"
+                effects="Activates 10% of the time.&#10;Activates 25% of the time.&#10;Activates 45% of the time."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Geologist"
+                description="Increases the number of times you can use a gathering point."
+                levels="1&#10;2&#10;3"
+                effects="Allows you to gather one extra time from bonepiles.&#10;Allows you to gather one extra time from gathering points.&#10;Allows you to gather one extra time from mining outcrops."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Good Luck"
+                description="Good chance of increased quest rewards. (No effect when joining mid-quest.)"
+                levels="1&#10;2&#10;3"
+                effects="Slightly increases luck.&#10;Increases luck.&#10;Greatly increases luck."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Guard"
+                description="Reduces knockbacks and stamina depletion when guarding."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Very slightly decreases the impact of attacks.&#10;Slightly decreases the impact of attacks and reduces stamina depletion by 15%.&#10;Decreases the impact of attacks and reduces stamina depletion by 15%.&#10;Decreases the impact of attacks and reduces stamina depletion by 30%.&#10;Greatly decreases the impact of attacks and reduces stamina depletion by 50%."
+                grade="A"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Guard Up"
+                description="Allows you to guard against ordinarily unblockable attacks."
+                levels="1&#10;2&#10;3"
+                effects="Reduces damage taken by 30%.&#10;Reduces damage taken by 50%.&#10;Reduces damage taken by 80%."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Handicraft"
+                description="Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Weapon sharpness +10.&#10;Weapon sharpness +20.&#10;Weapon sharpness +30.&#10;Weapon sharpness +40.&#10;Weapon sharpness +50."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Hellfire Cloak"
+                description="Grants hellfire resistance and confers explosive hellfire power to your attacks."
+                levels="1&#10;2&#10;3&#10;4"
+                effects="Reduces damage from hellfire.&#10;Increases damage from hellfire blasts.&#10;Inflicts hellfireblight when monsters are enraged.&#10;Effect persists for one minute after a monster's rage has subsided."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Heroics"
+                description="Increases attack power and defense when health drops to 35% or lower."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="While active, increases defense by 50 points.&#10;Attack +5% and defense +50 while active.&#10;Attack +5% and defense +100 while active.&#10;Attack +10% and defense +100 while active.&#10;While active, attack power +30% and defense-increasing effects are negated."
+                grade="A"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Horn Maestro"
+                description="Increases overall performance speed and shockwave damage."
+                levels="1"
+                effects="Activates skill effect."
+                grade="C"
+                firstmaxlevel="1"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Hunger Resistance"
+                description="Reduces maximum stamina depletion over time."
+                levels="1&#10;2&#10;3"
+                effects="Extends the time until your stamina cap reduces by 50%.&#10;Extends the time until your stamina cap reduces by 100%.&#10;Prevents your stamina cap from decreasing."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Ice Attack"
+                description="Increases ice element attack power. (Elemental attack power has a maximum limit.)"
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Ice attack +2.&#10;Ice attack +3.&#10;Ice attack +5%. Bonus: +4.&#10;Ice attack +10%. Bonus: +4.&#10;Ice attack +20%. Bonus: +4."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Ice Resistance"
+                description="Increases ice resistance. Also improves defense at higher levels."
+                levels="1&#10;2&#10;3"
+                effects="Ice resistance +6.&#10;Ice resistance +12.&#10;Ice resistance +20. Defense +10."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Item Prolonger"
+                description="Extends the duration of some item effects."
+                levels="1&#10;2&#10;3"
+                effects="Item effect duration +10%.&#10;Item effect duration +25%.&#10;Item effect duration +50%."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Jump Master"
+                description="Prevents attacks from knocking you back during a jump."
+                levels="1"
+                effects="Negates knockback during jumps."
+                grade="S"
+                firstmaxlevel="1"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Kushala Blessing"
+                description="Gain the power of the elder dragon Kushala Daora."
+                levels="1&#10;2&#10;3&#10;4"
+                effects="Water and ice attack +5%.&#10;Water and ice attack +10%.&#10;Also allows recovery to exceed the red portion of the health gauge.&#10;Also nullifies heat damage."
+        />
+        <skill
+                name="Latent Power"
+                description="Temporarily increases affinity and reduces stamina depletion when certain conditions are met."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="While active, increases affinity by 10% and reduces stamina depletion by 30%.&#10;While active, increases affinity by 20% and reduces stamina depletion by 30%.&#10;While active, increases affinity by 30% and reduces stamina depletion by 50%.&#10;While active, increases affinity by 40% and reduces stamina depletion by 50%.&#10;While active, increases affinity by 50% and reduces stamina depletion by 50%."
+                grade="A"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Leap of Faith"
+                description="Allows you to do a dive-evade when facing towards large monster, and extends the dive-evade distance."
+                levels="1"
+                effects="Enables skill use."
+                grade="C"
+                firstmaxlevel="1"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Load Shells"
+                description="Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity."
+                levels="1&#10;2"
+                effects="Increases ammo and coating reloading speed.&#10;Gunlance loading capacity +1. Increases charge blade phials."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Marathon Runner"
+                description="Slows down stamina depletion for actions which continuously drain stamina (such as dashing)."
+                levels="1&#10;2&#10;3"
+                effects="Reduces continuous stamina depletion by 15%.&#10;Reduces continuous stamina depletion by 30%.&#10;Reduces continuous stamina depletion by 50%."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Master Mounter"
+                description="Improves your Wyvern Riding skills."
+                levels="1"
+                effects="Makes filling the Riding Gauge easier and increases ease of parrying."
+                grade="C"
+                firstmaxlevel="1"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Master's Touch"
+                description="Prevents your weapon from losing sharpness during critical hits."
+                levels="1&#10;2&#10;3"
+                effects="Grants a 20% chance of no sharpness loss while active.&#10;Grants a 40% chance of no sharpness loss while active.&#10;Grants a 80% chance of no sharpness loss while active."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Maximum Might"
+                description="Increases affinity if stamina is kept full for a period of time."
+                levels="1&#10;2&#10;3"
+                effects="While active, increases affinity by 10%.&#10;While active, increases affinity by 20%.&#10;While active, increases affinity by 30%."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Mind's Eye"
+                description="Your attacks are deflected less and deal more damage to hard targets."
+                levels="1&#10;2&#10;3"
+                effects="+10% damage to hard targets and a 50% reduction to your attacks being deflected.&#10;+15% damage to hard targets and a 100% reduction to your attacks being deflected.&#10;+30% damage to hard targets and a 100% reduction to your attacks being deflected."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Muck Resistance"
+                description="Reduces impairments to mobility while stuck in monster muck or deep snow."
+                levels="1&#10;2"
+                effects="Reduces limits on movement speed.&#10;Negates limits to movement speed."
+                grade="C"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Mushroomancer"
+                description="Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects."
+                levels="1&#10;2&#10;3"
+                effects="Lets you digets blue mushrooms and toadstools.&#10;Additionally lets you digest nitroshrooms and parashrooms.&#10;Additionally lets you digest mandragoras and exciteshrooms."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Normal/Rapid Up"
+                description="Increases the attack power of Normal Ammo and Rapid-type arrows."
+                levels="1&#10;2&#10;3"
+                effects="Slightly increases the power of Normal Ammo and Rapid-type arrows.&#10;Increases the power of Normal Ammo and Rapid-type arrows.&#10;Greatly increases the power of Normal Ammo and Rapid-type arrows."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Offensive Guard"
+                description="Temporarily increases attack power after executing a perfectly-timed guard."
+                levels="1&#10;2&#10;3"
+                effects="Attack +5% when active.&#10;Attack +10% when active.&#10;Attack +15% when active."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Paralysis Attack"
+                description="Increases paralysis element attack power. (Elemental attack power has a maximum limit.)"
+                levels="1&#10;2&#10;3"
+                effects="Paralysis buildup +5%. Bonus: +1.&#10;Paralysis buildup +10%. Bonus: +2.&#10;Paralysis buildup +20%. Bonus: +5."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Paralysis Resistance"
+                description="Reduces the duration of paralysis."
+                levels="1&#10;2&#10;3"
+                effects="Reduces the duration of paralysis by 30%.&#10;Reduces the duration of paralysis by 60%.&#10;Prevents paralysis."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Partbreaker"
+                description="Makes it easier to break or sever parts of large monsters."
+                levels="1&#10;2&#10;3"
+                effects="Part damage +10%.&#10;Part damage +20%.&#10;Part damage +30%."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Peak Performance"
+                description="Increases attack when your health is full."
+                levels="1&#10;2&#10;3"
+                effects="Attack +5 while active.&#10;Attack +10 while active.&#10;Attack +20 while active."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Pierce Up"
+                description="Increases the attack power of Piercing Ammo and Piercing-type arrows."
+                levels="1&#10;2&#10;3"
+                effects="Slightly increases the power of Piercing Ammo and Piercing-type arrows.&#10;Increases the power of Piercing Ammo and Piercing-type arrows.&#10;Greatly increases the power of Piercing Ammo and Piercing-type arrows."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Poison Attack"
+                description="Increases poison element attack power. (Elemental attack power has a maximum limit.)"
+                levels="1&#10;2&#10;3"
+                effects="Poison buildup +5%. Bonus: +1.&#10;Poison buildup +10%. Bonus: +2.&#10;Poison buildup +20%. Bonus: +5."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Poison Resistance"
+                description="Reduces damage while poisoned."
+                levels="1&#10;2&#10;3"
+                effects="Reduces the number of times you take poison damage.&#10;Greatly reduces the number of times you take poison damage.&#10;Prevents poison and reduces venom."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Power Prolonger"
+                description="Long swords, dual blades, insect glaives, switch axes, and charge blades stay powered up longer."
+                levels="1&#10;2&#10;3"
+                effects="Slightly boosts the duration weapons are powered up.&#10;Boosts the duration weapons are powered up.&#10;Greatly boosts the duration weapons are powered up."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Protective Polish"
+                description="Weapon sharpness does not decrease for a set time after sharpening."
+                levels="1&#10;2&#10;3"
+                effects="Effect lasts 30 seconds.&#10;Effect lasts 60 seconds.&#10;Effect lasts 90 seconds."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Punishing Draw"
+                description="Adds a stun effect to draw atacks and slightly increases attack power."
+                levels="1&#10;2&#10;3"
+                effects="Applies a minor chance to stun. Attack power of draw attacks +3.&#10;Applies a chance to stun. Attack power of draw attacks +5.&#10;Applies a great chance to stun. Attack power of draw attacks +7."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Quick Sheath"
+                description="Speeds up weapon sheathing."
+                levels="1&#10;2&#10;3"
+                effects="Slightly increases sheathing speed.&#10;Moderately increases sheathing speed.&#10;Greatly increases sheathing speed."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Rapid Fire Up"
+                description="Improves light bowgun rapid fire."
+                levels="1&#10;2&#10;3"
+                effects="Rapid fire damage +5%.&#10;Rapid fire damage +10%.&#10;Rapid fire damage +20%."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Rapid Morph"
+                description="Increases switch speed and power for switch axes and charge blades."
+                levels="1&#10;2&#10;3"
+                effects="Speed +10%.&#10;Speed +20%. Morph attack damage +10%.&#10;Speed +30%. Morph attack damage +20%."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Razor Sharp"
+                description="Prevents your weapon from losing sharpness."
+                levels="1&#10;2&#10;3"
+                effects="Activates 10% of the time.&#10;Activates 25% of the time.&#10;Activates 50% of the time."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Recoil Down"
+                description="Reduces recoil when firing bowgun ammo."
+                levels="1&#10;2&#10;3"
+                effects="Recoil -1.&#10;Recoil -2.&#10;Recoil -3."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Recovery Speed"
+                description="Speeds healing of recoverable damage (the red portion of the health gauge)."
+                levels="1&#10;2&#10;3"
+                effects="Doubles the speed at which you heal recoverable damage.&#10;Triples the speed at which you heal recoverable damage.&#10;Quadruples the speed at which you heal recoverable damage."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Recovery Up"
+                description="Increases the amount recovered when restoring health."
+                levels="1&#10;2&#10;3"
+                effects="Slightly increases recovery.&#10;Increases recovery.&#10;Greatly increases recovery."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Reload Speed"
+                description="Increases bowgun reloading and bow coating loading speed."
+                levels="1&#10;2&#10;3"
+                effects="Bowgun speed +1. Improves bow handling.&#10;Bowgun speed +2.Loads bow coating automatically.&#10;Bowgun speed +3."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Resentment"
+                description="Increases your attack when you have recoverable damage (the red portion of your health gauge)."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Attack +5 while active.&#10;Attack +10 while active.&#10;Attack +15 while active.&#10;Attack +20 while active.&#10;Attack +25 while active."
+                grade="A"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Resuscitate"
+                description="Increases attack power when you are suffering from an abnormal status."
+                levels="1&#10;2&#10;3"
+                effects="Attack +5 while active.&#10;Attack +10 while active.&#10;Attack +20 while active."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Sleep Attack"
+                description="Increases sleep element attack power. (Elemental attack power has a maximum limit.)"
+                levels="1&#10;2&#10;3"
+                effects="Sleep buildup +5%. Bonus: +1.&#10;Sleep buildup +10%. Bonus: +2.&#10;Sleep buildup +20%. Bonus: +5."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Sleep Resistance"
+                description="Reduces the duration of sleep."
+                levels="1&#10;2&#10;3"
+                effects="Reduces the duration of sleep by 30%.&#10;Reduces the duration of sleep by 60%.&#10;Prevents sleep."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Slugger"
+                description="Makes it easier to stun monsters."
+                levels="1&#10;2&#10;3"
+                effects="Stun power +20%.&#10;Stun power +30%.&#10;Stun power +40%."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Spare Shot"
+                description="Bow and bowgun shots have a chance not to expend coatings or ammo."
+                levels="1&#10;2&#10;3"
+                effects="Activates 3% of the time.&#10;Activates 10% of the time.&#10;Activates 20% of the time."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Special Ammo Boost"
+                description="Increases the power of bowgun special ammo and Dragon Piercer."
+                levels="1&#10;2"
+                effects="Increases the power of bowgun special ammo and Dragon Piercer by 10%.&#10;Increases the power of bowgun special ammo and Dragon Piercer by 20%."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Speed Eating"
+                description="Increases meat-eating and item-consumption speed."
+                levels="1&#10;2&#10;3"
+                effects="Slightly increases eating speed.&#10;Increases eating speed.&#10;Greatly increases eating speed."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Speed Sharpening"
+                description="Speeds up weapon sharpening when using a whetstone."
+                levels="1&#10;2&#10;3"
+                effects="Removes one cycle from the sharpening process.&#10;Removes two cycles from the sharpening process.&#10;Removes three cycles from the sharpening process."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Spread Up"
+                description="Increases the attack power of Spread Ammon and Spread-type arrows."
+                levels="1&#10;2&#10;3"
+                effects="Slightly increases the power of Spread Ammo, Shrapnel Ammo, and Spread-type arrows.&#10;Increases the power of Spread Ammo, Shrapnel Ammo, and Spread-type arrows.&#10;Greatly increases the power of Spread Ammo, Shrapnel Ammo, and Spread-type arrows."
+                grade="S"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Stamina Surge"
+                description="Speeds up stamina recovery."
+                levels="1&#10;2&#10;3"
+                effects="Stamina recovery speed +10%.&#10;Stamina recovery speed +20%.&#10;Stamina recovery speed +40%."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Stamina Thief"
+                description="Increases certain attacks' ability to exhaust monsters."
+                levels="1&#10;2&#10;3"
+                effects="Exhaust power +20%.&#10;Exhaust power +30%.&#10;Exhaust power +40%."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Steadiness"
+                description="Supresses the deviation of bowgun shots."
+                levels="1&#10;2"
+                effects="Deviation -1.&#10;Deviation -2."
+                grade="B"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Stormsoul"
+                description="Strengthens thunder and dragon power and improves skills of the same elements."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Thunder and dragon attack +5%.&#10;Thunder and dragon attack +10%.&#10;Thunder and dragon attack +15%.&#10;Also increases level of other skills by +1.&#10;Also increases level of other skills by +1 (stacks with previous bonus)."
+        />
+        <skill
+                name="Stun Resistance"
+                description="Reduces stun duration."
+                levels="1&#10;2&#10;3"
+                effects="Reduces the duration of stun by 60%.&#10;Reduces the duration of stun by 90%.&#10;Prevents stun."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Teostra Blessing"
+                description="Gain the power of the elder dragon Teostra."
+                levels="1&#10;2&#10;3&#10;4"
+                effects="Fire attack and blast buildup +5%.&#10;Fire attack and blast buildup +10%.&#10;Also prevents poison and venom.&#10;Also negates theft."
+        />
+        <skill
+                name="Thunder Alignment"
+                description="Gain the power of the elder dragon Thunder Serpent Narwa."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Thunder resistance +1.&#10;Thunder resistance +2.&#10;Thunder resistance +3.&#10;Thunder resistance +4.&#10;Also grants the effect Fortunate."
+        />
+        <skill
+                name="Thunder Attack"
+                description="Increases thunder element attack power. (Elemental attack power has a maximum limit.)"
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Thunder attack +2.&#10;Thunder attack +3.&#10;Thunder attack +5%. Bonus: +4.&#10;Thunder attack +10%. Bonus: +4.&#10;Thunder attack +20%. Bonus: +4."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Thunder Resistance"
+                description="Increases thunder resistance. Also improves defense at higher levels."
+                levels="1&#10;2&#10;3"
+                effects="Thunder resistance +6.&#10;Thunder resistance +12.&#10;Thunder resistance +20. Defense +10."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Tremor Resistance"
+                description="Grants protection against ground tremors."
+                levels="1&#10;2&#10;3"
+                effects="Nullifies minor ground tremors.&#10;Nullifies minor ground tremors and reduces the effects of major ground tremors.&#10;Nullifies minor and major ground tremors."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Wall Runner"
+                description="Reduces stamina consumption when running on walls."
+                levels="1&#10;2&#10;3"
+                effects="Reduces stamina consumption by 25% while wall running.&#10;Reduces stamina consumption by 50% while wall running.&#10;Also temporarily increases attack power by wall running."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Water Attack"
+                description="Increases water element attack power. (Elemental attack power has a maximum limit.)"
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Water attack +2.&#10;Water attack +3.&#10;Water attack +5%. Bonus: +4.&#10;Water attack +10%. Bonus: +4.&#10;Water attack +20%. Bonus: +4."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Water Resistance"
+                description="Increases water resistance. Also improves defense at higher levels."
+                levels="1&#10;2&#10;3"
+                effects="Water resistance +6.&#10;Water resistance +12.&#10;Water resistance +20. Defense +10."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Weakness Exploit"
+                description="Increases the affinity of attacks that exploit a monster weak spot."
+                levels="1&#10;2&#10;3"
+                effects="Attacks that hit weak spots have 15% increased affinity.&#10;Attacks that hit weak spots have 30% increased affinity.&#10;Attacks that hit weak spots have 50% increased affinity."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+        <skill
+                name="Wide Range"
+                description="Allows the effects of certain items to also affect nearby allies."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Items affect nearby allies with 33% of their efficacy.&#10;Items affect nearby allies in a wider radius with 33% of their efficacy.&#10;Items affect nearby allies in a wider radius at 66% of their efficacy.&#10;Items affect nearby allies in a much wider radius with 66% of their efficacy.&#10;Items affect nearby allies in a much wider radius with full efficacy."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Wind Alignment"
+                description="Gain the power of the elder dragon Wind Serpent Ibushi."
+                levels="1&#10;2&#10;3&#10;4&#10;5"
+                effects="Dragon resistance +1.&#10;Dragon resistance +2.&#10;Dragon resistance +3.&#10;Dragon resistance +4.&#10;Also grants the effect Fortunate."
+        />
+        <skill
+                name="Windproof"
+                description="Grants protection against wind pressure."
+                levels="1&#10;2&#10;3"
+                effects="Negates minor wind pressure.&#10;Negates minor and major wind pressure.&#10;Negates minor and major wind pressure and reduces the effects of dragon wind pressure."
+                grade="B"
+                firstmaxlevel="3"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+        <skill
+                name="Wirebug Whisperer"
+                description="Improves your handling of Wirebugs."
+                levels="1&#10;2&#10;3"
+                effects="Extends the duration you can keep a Wirebug by 30%.&#10;Also increases Wirefall recovery rate.&#10;Also increases passive recovery rate while on the ground."
+                grade="C"
+                firstmaxlevel="3"
+                secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+    </skills>
+</data>

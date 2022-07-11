@@ -290,6 +290,7 @@
         />
         <monster
                 name="Bazelgeuse"
+				alias="Bagel"
                 wiki="https://monsterhunter.fandom.com/wiki/Bazelgeuse"
                 characteristics="A nefarious flying wyvern that travels the world in search for prey. It scatters its own explosive scales over a wide area to prey on whatever gets caught in the blast. In some places, this has earned it the nickname, Bomber Wyvern."
                 class="Flying Wyvern"
@@ -299,6 +300,7 @@
         />
         <monster
                 name="Rajang"
+				alias="Monke"
                 wiki="https://monsterhunter.fandom.com/wiki/Rajang"
                 characteristics="An ultra-aggressive creature that is rarely sighted and seldom survived. Those that have survived report that it exhibits a strange attack. Rajang are said to be loners, and this isolated life has made it difficult to pin down its territorial learnings. When angered, part of its pelt turns a golden color."
                 class="Fanged Beast"
@@ -308,6 +310,7 @@
         />
         <monster
                 name="Teostra"
+				alias="Toaster"
                 wiki="https://monsterhunter.fandom.com/wiki/Teostra"
                 characteristics="Brutal elder dragons wreathed in flames that spew blazing fire. Teostra are such a fierce and deadly nature that the Guild closely monitors their movements."
                 class="Elder Dragon"
@@ -427,6 +430,165 @@
                 weakness="Ice"
                 ailment="None"
                 element="None"
+        />
+		<monster
+                name="Aurora Somnacanth"
+                wiki="https://monsterhunter.fandom.com/wiki/Aurora_Somnacanth"
+                characteristics="Light illuminates the dust scattered around this subspecies, making their fantastical appearance shimmer softly. Aurora Somnacanth sprays icy blasts in place of sleeping powder, attacking all who dare enter their territory. They use the permanent cold emanating from their bodies to freeze the vicinity, and then the frozen surface to move around swiftly."
+                class="Leviathan"
+                weakness="None"
+                ailment="Iceblight"
+                element="Ice"
+        />
+		<monster
+                name="Astalos"
+                wiki="https://monsterhunter.fandom.com/wiki/Astalos"
+                characteristics="Large Flying Wyverns with crest-shaped organs that let them control vast amounts of electricity. Astalos vibrate these organs on their head, forked tail, and brilliant wings to charge the respective body part with electricity, yielding tremendous strength and an amplified attack range. Violent to a fault, witnesses have observed them using all their might to drive intruders from their territory."
+                class="Flying Wyvern"
+                weakness="Ice&#10;Water"
+                ailment="Thunderblight&#10;Paralysis"
+                element="Thunder"
+        />
+		<monster
+                name="Blood Orange Bishaten"
+				alias="Bob"
+                wiki="https://monsterhunter.fandom.com/wiki/Blood_Orange_Bishaten"
+                characteristics="A subspecies named for their auburn fur. Inquisitive by nature, Blood Orange Bishaten can even appear near human habitats. Their belly pouch is stuffed with combustible pinecones, and this subspecies has a distinct and focused fire breath. The breath itself isn't as dangerous as the pinecones it ignites. Reports indicate that it's possible to topple these monsters while they balance on their tails."
+                class="Fanged Beast"
+                weakness="Water"
+                ailment="Fireblight"
+                element="Fire"
+        />
+		<monster
+                name="Daimyo Hermitaur"
+				alias="Daimyo,Hermitaur"
+                wiki="https://monsterhunter.fandom.com/wiki/Daimyo_Hermitaur"
+                characteristics="Large Carapaceons that live in coastal regions and sandy soil. Daimyo Hermitaurs use their massive claws to guard themselves against enemy attacks. These creatures wear wyvern skulls on their backs, unlike the shells carried in their infancy. These shells serve not only as protection, but also as a method for attacking prey. They are highly valued for their materials—their brains in particular."
+                class="Carapaceon"
+                weakness="Thunder"
+                ailment="Waterblight"
+                element="Water"
+        />
+		<monster
+                name="Espinas"
+                wiki="https://monsterhunter.fandom.com/wiki/Espinas"
+                characteristics="Flying Wyverns known for the red spikes on their tough green frame, forming both a means of attack and defense, thus generally keeping foes at bay. As a result, they are often seen sprawled out and relaxing in their domain. Once they sense danger, however, they expand their blood vessels to turn their hide and wing membranes a bright red, and they will run riot with noteworthy brutality."
+                class="Flying Wyvern"
+                weakness="Ice"
+                ailment="Fireblight&#10;Poison&#10;Paralysis"
+                element="Fire"
+        />
+		<monster
+                name="Furious Rajang"
+				alias="Monke"
+                wiki="https://monsterhunter.fandom.com/wiki/Furious_Rajang"
+                characteristics="Furious Rajang are Rajang variants that are covered in golden fur. Normally Rajang return to their black-furred state after being agitated for a time to conserve energy, but these beasts have lost their ability to curb their anger. Outclassing the standard Rajang's attack power, they assault with seething rage. At the apex of their fury they become enraged and turn into destructive demons with electrified manes."
+                class="Fanged Beast"
+                weakness="Ice"
+                ailment="Thunderblight"
+                element="Thunder"
+        />
+		<monster
+                name="Gaismagorm"
+                wiki="https://monsterhunter.fandom.com/wiki/Gaismagorm"
+                characteristics="A gargantuan monster living in the darkest depths since ancient times. Gaismagorm's rock-like forearms boast tenacious strength which allows it to burrow undergournd. It has a symbiotic relationship with the Qurio, and feeds on their life force for energy. Once it has chosen a place to nest, it collapses the surrounding rock bed to create an opening to the surface. The opening forms a massive crater in which it releases the Qurio through."
+                class="Elder Dragon"
+                weakness="Dragon&#10;Thunder"
+                ailment="Blastblight&#10;Bloodblight"
+                element="None"
+        />
+		<monster
+                name="Garangolm"
+                wiki="https://monsterhunter.fandom.com/wiki/Garangolm"
+                characteristics="A monster characterized by its massive and rigid body. Garangolm are generally placid, living in regions with fertile soil. Their sap-like fluids can promote plant growth, forging a symbiotic relationship with flora that grows in their bodies. They can also use that sap to harden plants or the surrounding soil, outfitting their bodies and enhancing their attacks."
+                class="Fanged Beast"
+                weakness="None"
+                ailment="Fireblight&#10;Waterblight&#10;Blastblight"
+                element="Fire&#10;Water"
+        />
+		<monster
+                name="Gore Magala"
+                wiki="https://monsterhunter.fandom.com/wiki/Gore_Magala"
+                characteristics="Gore Magala possess wings with black, shroud-like membrane. They lack visual receptors, heightening their senses by scattering scales from their wings to ascertain the locations of lifeforms. At the peak of their senses, feelers extend from their head, their wings unfurl, and they become frenzied. They're feared not only for their sinister appearance but also for the mysterious Frenzy virus they carry."
+                class="Unknown"
+                weakness="Fire&#10;Thunder&#10;Dragon"
+                ailment="Frenzy Virus"
+                element="None"
+        />
+		<monster
+                name="Lunagaron"
+                wiki="https://monsterhunter.fandom.com/wiki/Lunagaron"
+                characteristics="Lunagaron have an organ that chills the air they inhale, circulating it throughout their body in a unique form of thermoregulation. They can travel long distances and endure environmental changes, allowing them to occupy a wide range of habitats. They usually walk on all fours, but can stand on two legs by shutting down their cooling mechanism, spiking their body temp to expand their muscles."
+                class="Fanged Wyvern"
+                weakness="None"
+                ailment="Iceblight&#10;Stun"
+                element="Ice"
+        />
+		<monster
+                name="Magma Almudron"
+                wiki="https://monsterhunter.fandom.com/wiki/Magma_Almudron"
+                characteristics="Unlike normal Almudron, Magma Almudron live in the Lava Caverns, and can manipulate magma instead of mud. They secrete a special liquid that melts the ground, allowing them to move freely through the earth. Known for their aggressive nature, they become extremely agitated when trespassers set foot on their turf, attacking them unrelentingly."
+                class="Leviathan"
+                weakness="None"
+                ailment="Fireblight"
+                element="Fire"
+        />
+		<monster
+                name="Malzeno"
+                wiki="https://monsterhunter.fandom.com/wiki/Malzeno"
+                characteristics="A dragon covered with elegant silver scales. It uses the Qurio to drain the life energy of other living creatures, creeping around at night and attacking its prey from behind. It appears almost regal to start with, but after draining enough energy it can turn a violent, fresh-blood crimson. This form is known as the &quot;Bloodening&quot; and is widely feared."
+                class="Elder Dragon"
+                weakness="None"
+                ailment="Bloodblight&#10;Dragonblight"
+                element="Dragon"
+        />
+		<monster
+                name="Pyre Rakna-Kadaki"
+                wiki="https://monsterhunter.fandom.com/wiki/Pyre_Rakna-Kadaki"
+                characteristics="A subspecies of Rakna-Kadaki filled with explosive material, their bodies are covered in a dark red, explosion- resistant webbing. An advanced chain of command lets them direct their offspring with a special sound-producing organ. On offense, they strike their forelimbs like flints to induce explosions. Connecting special detonation threads to offspring in the area lets them expand the explosive area to their positions."
+                class="Temnoceran"
+                weakness="None"
+                ailment="Fireblight&#10;Blastblight&#10;Webbed"
+                element="Fire"
+        />
+		<monster
+                name="Scorned Magnamalo"
+				alias="Scorned"
+                wiki="https://monsterhunter.fandom.com/wiki/Scorned_Magnamalo"
+                characteristics="A Magnamalo variant that achieves an even more twisted, malevolent form. Filled with hatred, they are known as &quot;Scorned Magnamalo.&quot; Shrouded in Hellfire at all times, they also boast larger arm blades and harder armor plating. During battles, they have been spotted focusing their Hellfire and swinging it like a blade."
+                class="Fanged Wyvern"
+                weakness="None"
+                ailment="Hellfireblight"
+                element="None"
+        />
+		<monster
+                name="Seregios"
+                wiki="https://monsterhunter.fandom.com/wiki/Seregios"
+                characteristics="Large Flying Wyverns with sharp, blade-like scales covering their body. Seregios are well-known as extremely territorial and belligerent creatures, wielding their aerial mobility and powerful hind leg attacks in intense combat against other large monsters. Reports have confirmed that Seregios have the ability to launch the scales from their body, inflicting their victims with the Bleeding status."
+                class="Flying Wyvern"
+                weakness="Thunder&#10;Ice"
+                ailment="Bleeding"
+                element="None"
+        />
+		<monster
+                name="Shagaru Magala"
+				alias="Shagaru"
+                wiki="https://monsterhunter.fandom.com/wiki/Shagaru_Magala"
+                characteristics="The form taken by Gore Magala once they mature and molt. Gorgeous, glittering scales cover Shagaru Magala, and their divine wings are large enough to wrap around their entire body. According to records, one was once said to have scattered its black scales over an area the size of a mountain, annihilating any and all lifeforms inhabiting that region."
+                class="Elder Dragon"
+                weakness="Dragon&#10;Fire"
+                ailment="Frenzy Virus"
+                element="None"
+        />
+		<monster
+                name="Shogun Ceanataur"
+				alias="Shogun,Ceanataur"
+                wiki="https://monsterhunter.fandom.com/wiki/Shogun_Ceanataur"
+                characteristics="These large Carapaceons can be found around volcanoes and in the Flooded Forest. Shogun Ceanataur wield long, developed claws that are usually folded away, but unfurl into terrifying blades when enraged. Shogun Ceanataur, like the Daimyo Hermitaur, are also known to use wyvern skulls as shells. Specimens that do, have been observed using a water jet-like attack."
+                class="Carapaceon"
+                weakness="Thunder&#10;Ice"
+                ailment="Waterblight&#10;Bleeding"
+                element="Water"
         />
     </monsters>
 </data>

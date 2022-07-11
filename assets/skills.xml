@@ -60,6 +60,16 @@
                 secondmaxlevel="2"
                 maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
         />
+		<skill
+                name="Bladescale Hone"
+                description="Dodge rolling to evade an attack with your weapon drawn will recover sharpness, refill bowgun ammo, or give Close-range Coatings a temporary boost."
+                levels="1&#10;2&#10;3"
+                effects="Activates 50% of the time.&#10;Activates 75% of the time.&#10;Activates 100% of the time."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
         <skill
                 name="Blast Attack"
                 description="Increases blast element attack power. (Elemental attack power has a maximum limit)."
@@ -79,6 +89,18 @@
                 firstmaxlevel="3"
                 secondmaxlevel="2"
                 maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+		<skill
+                name="Blood Rite"
+                description="A proportion of damage dealt is converted to health when striking a broken monster part."
+                levels="1&#10;2&#10;3"
+                effects="Activate effect.&#10;Increases the amount of health you recover.&#10;Further increases the amount of health you recover."
+        />
+		<skill
+                name="Bloodlust"
+                description="The effects of the Frenzy virus change. Health is gradually reduced, but you gain a variety of effects. Frenzy virus occurs regularly when in combat."
+                levels="1&#10;2&#10;3"
+                effects="While infected, attack &amp; evasion increase &amp; stamina use reduced. On recover, red vitality gauge is restored, and affinity increases.&#10;While infected, further boost to effects received. Upon recovery, further increase to affinity.&#10;While infected, further boost to effects received. Upon recovery, further increases duration of increased affinity."
         />
         <skill
                 name="Bludgeoner"
@@ -148,11 +170,41 @@
                 secondmaxlevel="1"
                 maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
         />
+		<skill
+                name="Chain Crit"
+                description="Continuously landing hits gradually increases attack and elemental attack. (The amount of increase depends on the weapon.)"
+                levels="1&#10;2&#10;3"
+                effects="Upon attack hit, temp attack +5, element +5; hit 5 successive times for an extra stat boost.&#10;Upon attack hit, temp attack +5, element +5; hit 5 successive times for an even bigger stat boost.&#10;Upon attack hit, temp attack +5, element +5; hit 5 successive times for a huge stat boost."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
         <skill
                 name="Chameleos Blessing"
                 description="Gain the power of the elder dragon Chameleos."
                 levels="1&#10;2&#10;3&#10;4"
                 effects="Sometimes increases the effects of Spiribirds.&#10;Also negates minor and major wind pressure.&#10;Also extends the duration of your poison's effect on monsters.&#10;Also negates all wind pressure."
+        />
+		<skill
+                name="Charge Master"
+                description="When a charged attack hits a monster, the element and status buildup of the charged attack increases."
+                levels="1&#10;2&#10;3"
+                effects="Grants a slight increase to elemental and status buildup.&#10;Grants an increase to elemental and status buildup.&#10;Grants a large increase to elemental and status buildup."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+		<skill
+                name="Coalescence"
+                description="Temporarily enhances attacks after recovering from blights or abnormal status."
+                levels="1&#10;2&#10;3"
+                effects="While active, attack +12, element attack power +2, and status buildup +5%.&#10;While active, attack +15, element attack power +3, and status buildup +10%.&#10;While active, attack +18, element attack power +4, and status buildup +15%."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
         />
         <skill
                 name="Constitution"
@@ -223,6 +275,12 @@
                 firstmaxlevel="3"
                 secondmaxlevel="3"
                 maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+		<skill
+                name="Dereliction"
+                description="Qurio will drain health, but also bolster your attacks. Multiple Qurio further bolster attacks and let you recover health when performing a Switch Skill Swap."
+                levels="1&#10;2&#10;3"
+                effects="Using Red Scroll: Increased elemental and status values, Using Blue Scroll: Increased attack and stun potency.&#10;Bolsters your attacks depending on which Swap Scroll is used.&#10;Further bolsters your attacks depending on which Swap Scroll is used."
         />
         <skill
                 name="Diversion"
@@ -340,6 +398,16 @@
                 secondmaxlevel="1"
                 maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
         />
+		<skill
+                name="Foray"
+                description="Increases attack power and affinity when attacking a large monster affected by poison, paralysis, or an elemental blight."
+                levels="1&#10;2&#10;3"
+                effects="While active, increases attack power +10.&#10;While active, increases attack power +10 and affinity +10%.&#10;While active, increases attack power +15 and affinity +20%."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
         <skill
                 name="Fortify"
                 description="Increases your attack and defense when you fall in battle. (Disabled for some quests. Can stack twice.)"
@@ -360,6 +428,12 @@
                 secondmaxlevel="3"
                 maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
         />
+		<skill
+                name="Furious"
+                description="Using the Red Scroll builds your fury while fighting monsters. Swapping to the Blue Scroll when your fury is full gives you infinite stamina temporarily."
+                levels="1&#10;2&#10;3"
+                effects="Using Red Scroll: Defense +10, all Res +5. Swap to Blue Scroll: Temporary infinite stamina.&#10;Using Red Scroll: Defense +20, all Res +12. Swap to Blue Scroll: Temporary infinite stamina.&#10;Using Red Scroll: Defense +30, all Res +20. Swap to Blue Scroll: Temporary infinite stamina."
+        />
         <skill
                 name="Geologist"
                 description="Increases the number of times you can use a gathering point."
@@ -378,6 +452,16 @@
                 grade="S"
                 firstmaxlevel="2"
                 secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+		<skill
+                name="Grinder (S)"
+                description="When recovering sharpness, grants a boost to sharpness properties based on the number of levels recovered."
+                levels="1&#10;2&#10;3"
+                effects="Effect activates for 60 seconds when sharpness recovers 3 levels.&#10;Effect activates for 60 seconds when sharpness recovers 2 levels.&#10;Effect activates for 90 seconds when sharpness recovers 2 levels."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="2"
                 maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
         />
         <skill
@@ -525,6 +609,12 @@
                 firstmaxlevel="2"
                 secondmaxlevel="1"
                 maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+		<skill
+                name="Mail of Hellfire"
+                description="Decreases defense but increases attack. Exact changes to stats depends on Switch Skill Swap Scroll that is being used."
+                levels="1&#10;2&#10;3"
+                effects="Using Red Scroll: Defense down, attack up. Using Blue Scroll: Resistance down, element up.&#10;Further decreases defense and resistance, while further increasing attack and element.&#10;Greatly decreases defense and resistance, while greatly increasing attack and element."
         />
         <skill
                 name="Marathon Runner"
@@ -716,6 +806,12 @@
                 secondmaxlevel="2"
                 maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
         />
+		<skill
+                name="Quick Breath"
+                description="You can remove some statuses or slow their effects by performing a Switch Skill Swap. Health recovers when a status is removed."
+                levels="1"
+                effects="Activate effect."
+        />
         <skill
                 name="Quick Sheath"
                 description="Speeds up weapon sheathing."
@@ -786,6 +882,16 @@
                 secondmaxlevel="3"
                 maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
         />
+		<skill
+                name="Redirection"
+                description="Perform a perfectly-timed Switch Skill Swap just as a monster attacks to reduce the damage and negate damage reactions."
+                levels="1&#10;2"
+                effects="Activate effect.&#10;Nullifies incoming damage, and automatically performs a Swap Evade backwards which recovers Wirebug Gauge."
+                grade="B"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
         <skill
                 name="Reload Speed"
                 description="Increases bowgun reloading and bow coating loading speed."
@@ -815,6 +921,16 @@
                 firstmaxlevel="2"
                 secondmaxlevel="2"
                 maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
+		<skill
+                name="Spiribird's Call"
+                description="Receive the effects of a random Spiribird at fixed intervals. (Certain quests only)"
+                levels="1"
+                effects="Activate effect."
+				grade="C"
+                firstmaxlevel="1"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
         />
         <skill
                 name="Sleep Attack"
@@ -984,6 +1100,16 @@
                 secondmaxlevel="2"
                 maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
         />
+		<skill
+                name="Tune-Up"
+                description="Increases the stats of custom mods attached to bowguns."
+                levels="1&#10;2"
+                effects="Increases stats of Silencer and Shield. If neither are equpped, Reload Speed +1.&#10;Also increases stats of Long Barrel and Power Barrel. If neither are equipped, Reload Speed + 1 and Steadiness +1."
+                grade="A"
+                firstmaxlevel="2"
+                secondmaxlevel="1"
+                maxslots="3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1&#10;3-1-1"
+        />
         <skill
                 name="Wall Runner"
                 description="Reduces stamina consumption when running on walls."
@@ -992,6 +1118,16 @@
                 grade="C"
                 firstmaxlevel="3"
                 secondmaxlevel="3"
+                maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
+        />
+		<skill
+                name="Wall Runner (Boost)"
+                description="Wirebug Gauge recovers faster while wall running."
+                levels="1"
+                effects="Activate effect."
+                grade="C"
+                firstmaxlevel="1"
+                secondmaxlevel="1"
                 maxslots="3-1-1&#10;3-1-1&#10;3-2-1&#10;3-2-1&#10;3-2-1&#10;3-1-1&#10;3-1-1&#10;3-2-1"
         />
         <skill

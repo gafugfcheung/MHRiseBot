@@ -94,7 +94,8 @@ async def on_message(message):
                 distance = nltk.edit_distance(input_monster_name, cleaned_name)
 
                 if distance == 0:
-                    thumbnail_path = f"{monster_name.lower().replace(' ', '_')}.png"
+                    monster_file_name = monster_name.lower().replace(' ', '_')
+                    thumbnail_path = f"{monster_file_name}.png"
                     wiki = monster.attributes["wiki"].value
                     monster_class = monster.attributes["class"].value
                     weakness = monster.attributes["weakness"].value
@@ -114,7 +115,7 @@ async def on_message(message):
                     monster_embed.add_field(name="**Characteristics:**", value=f"*{characteristics}*")
 
                     monster_files = [monster_thumbnail]
-                    hzv_path = f"{monster_name.lower()}_hzv.png"
+                    hzv_path = f"{monster_file_name}_hzv.png"
                     full_hzv_path = f"images/{hzv_path}"
                     if os.path.exists(full_hzv_path):
                         hzv = discord.File(full_hzv_path, filename=hzv_path)
